@@ -1,0 +1,77 @@
+<<<<<<< .mine
+EESchema Schematic File Version 2
+=======
+EESchema Schematic File Version 2  date 12-09-2013 10:34:12
+>>>>>>> .r35
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:my-standard-lib
+LIBS:SparkFun
+LIBS:BatchB-cache
+EELAYER 24 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 5
+Title ""
+Date "12 sep 2013"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 4650 800  1950 2550
+U 520493D8
+F0 "SimpleClock" 50
+F1 "SimpleClock.sch" 50
+$EndSheet
+$Sheet
+S 2600 800  1950 2550
+U 520A448B
+F0 "Switching Regulator" 50
+F1 "SwReg.sch" 50
+$EndSheet
+$Sheet
+S 800  750  1700 2600
+U 521F5E9A
+F0 "EnergyADC" 50
+F1 "EnergyADC.sch" 50
+$EndSheet
+$Sheet
+S 6800 800  1700 2550
+U 522C244D
+F0 "ClassDAmp" 50
+F1 "ClassDAmp.sch" 50
+$EndSheet
+$EndSCHEMATC
