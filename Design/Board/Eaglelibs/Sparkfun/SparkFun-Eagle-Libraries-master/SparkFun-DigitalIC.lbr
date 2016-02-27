@@ -65,7 +65,7 @@
 <layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
-<layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
+<layer number="93" name="Pins" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="94" name="Symbols" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="95" name="Names" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="96" name="Values" color="7" fill="1" visible="yes" active="yes"/>
@@ -12606,6 +12606,33 @@ Level Shifting GPIO Expander w/ LED Driver and Keypad Engine</description>
 <text x="-10.16" y="18.034" size="1.778" layer="95">&gt;Name</text>
 <text x="-10.16" y="-18.288" size="1.778" layer="96" align="top-left">&gt;Value</text>
 </symbol>
+<symbol name="STM8S003F3">
+<wire x1="-17.78" y1="22.86" x2="17.78" y2="22.86" width="0.254" layer="94"/>
+<wire x1="17.78" y1="22.86" x2="17.78" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="17.78" y1="-27.94" x2="-17.78" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="-17.78" y1="-27.94" x2="-17.78" y2="22.86" width="0.254" layer="94"/>
+<pin name="PD4" x="-22.86" y="20.32" length="middle"/>
+<pin name="PD5" x="-22.86" y="15.24" length="middle"/>
+<pin name="PD6" x="-22.86" y="10.16" length="middle"/>
+<pin name="NRST" x="-22.86" y="5.08" length="middle"/>
+<pin name="OSCIN" x="-22.86" y="0" length="middle"/>
+<pin name="OSCOUT" x="-22.86" y="-5.08" length="middle"/>
+<pin name="VSS" x="-22.86" y="-10.16" length="middle"/>
+<pin name="VCAP" x="-22.86" y="-15.24" length="middle"/>
+<pin name="VDD" x="-22.86" y="-20.32" length="middle"/>
+<pin name="PA3" x="-22.86" y="-25.4" length="middle"/>
+<pin name="PB5" x="22.86" y="-25.4" length="middle" rot="R180"/>
+<pin name="PB4" x="22.86" y="-20.32" length="middle" rot="R180"/>
+<pin name="PC3" x="22.86" y="-15.24" length="middle" rot="R180"/>
+<pin name="PC4" x="22.86" y="-10.16" length="middle" rot="R180"/>
+<pin name="PC5" x="22.86" y="-5.08" length="middle" rot="R180"/>
+<pin name="PC6" x="22.86" y="0" length="middle" rot="R180"/>
+<pin name="PC7" x="22.86" y="5.08" length="middle" rot="R180"/>
+<pin name="PD1" x="22.86" y="10.16" length="middle" rot="R180"/>
+<pin name="PD2" x="22.86" y="15.24" length="middle" rot="R180"/>
+<pin name="PD3" x="22.86" y="20.32" length="middle" rot="R180"/>
+<text x="-7.62" y="17.78" size="1.778" layer="94">STM8S003F3</text>
+</symbol>
 </symbols>
 <devicesets>
 <deviceset name="AT25FS010">
@@ -18816,6 +18843,40 @@ This USB2.0 Full Speed  IC offers a compact bridge to full handshake UART interf
 <connect gate="G$1" pin="USBDP" pad="11"/>
 <connect gate="G$1" pin="VCC" pad="15"/>
 <connect gate="G$1" pin="VCCIO" pad="3"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="STM8S003F3">
+<gates>
+<gate name="G$1" symbol="STM8S003F3" x="0" y="2.54"/>
+</gates>
+<devices>
+<device name="" package="SSOP20">
+<connects>
+<connect gate="G$1" pin="NRST" pad="4"/>
+<connect gate="G$1" pin="OSCIN" pad="5"/>
+<connect gate="G$1" pin="OSCOUT" pad="6"/>
+<connect gate="G$1" pin="PA3" pad="10"/>
+<connect gate="G$1" pin="PB4" pad="11"/>
+<connect gate="G$1" pin="PB5" pad="12"/>
+<connect gate="G$1" pin="PC3" pad="13"/>
+<connect gate="G$1" pin="PC4" pad="14"/>
+<connect gate="G$1" pin="PC5" pad="15"/>
+<connect gate="G$1" pin="PC6" pad="16"/>
+<connect gate="G$1" pin="PC7" pad="17"/>
+<connect gate="G$1" pin="PD1" pad="18"/>
+<connect gate="G$1" pin="PD2" pad="19"/>
+<connect gate="G$1" pin="PD3" pad="20"/>
+<connect gate="G$1" pin="PD4" pad="1"/>
+<connect gate="G$1" pin="PD5" pad="2"/>
+<connect gate="G$1" pin="PD6" pad="3"/>
+<connect gate="G$1" pin="VCAP" pad="8"/>
+<connect gate="G$1" pin="VDD" pad="9"/>
+<connect gate="G$1" pin="VSS" pad="7"/>
 </connects>
 <technologies>
 <technology name=""/>

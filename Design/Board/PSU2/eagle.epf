@@ -1,0 +1,20 @@
+[Eagle]
+Version="06 06 00"
+Platform="Windows"
+Serial="6F32B75540-LSR-WLM-1CP"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files (x86)/EaglePCB_Pro/lbr/Si860x.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="2026 55 2905 995"
+State=2
+Number=0
+
+[Desktop]
+Screen="3840 1080"
+Window="Win_1"

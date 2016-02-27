@@ -1,0 +1,269 @@
+Part  Value        Device                    Package             Description
+===========        ======                    =======             ===========
+
+BR1                GSIB_15A                  GSIB_15A            BRIDGE RECTIFIER          
+BR2                2KBB-R                    2KBB-R              BRIDGE RECTIFIER      
+BR3                GSIB_15A                  GSIB_15A            BRIDGE RECTIFIER           
+C1    0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C2    0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C3    0.1uF        CPOL-EUE7.5-18            E7,5-18             POLARIZED CAPACITOR                  
+C4    22uF         C-EUC0805                 C0805               CAPACITOR 
+C5    1000uF_50V   CBP-ENP-015-040           ENP-015-040         BIPOLAR CAPACITOR   
+C6    1000uF_50V   CBP-ENP-015-040           ENP-015-040         BIPOLAR CAPACITOR   
+C7                 C-PRE5,0-12               E5,0-12             POLARIZED RADIAL ELECTROLYTIC
+C8                 CP-SV-E/F                 SV-E/F              POLARIZED CAPACITOR 
+C9    0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C10                C-PRE5,0-12               E5,0-12             POLARIZED RADIAL ELECTROLYTIC
+C11                CPOL-EUE2-5               E2-5                POLARIZED CAPACITOR                  
+C12   470pF        C-EUC0805                 C0805               CAPACITOR 
+C13                CPOL-EUE2-5               E2-5                POLARIZED CAPACITOR                  
+C14   470pF        C-EUC0805                 C0805               CAPACITOR 
+C15                CP-E-035X080              E-035X080           POLARIZED CAPACITOR 
+C16   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C17                CP-E-035X080              E-035X080           POLARIZED CAPACITOR 
+C18   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C19                CPOL-EUE2-5               E2-5                POLARIZED CAPACITOR                  
+C20   10n          C-EUC0805                 C0805               CAPACITOR 
+C21   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C22                CPOL-EUE2-5               E2-5                POLARIZED CAPACITOR                  
+C23   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C24   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C25   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C26   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C27   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C28                CP-E-050X125              E-050X125           POLARIZED CAPACITOR 
+C29   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C30                CPOL-EUE2-5               E2-5                POLARIZED CAPACITOR                  
+C31   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C32   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C33   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C34   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C35                CP-SV-C                   SV-C                POLARIZED CAPACITOR 
+C36   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C37                CP-SV-C                   SV-C                POLARIZED CAPACITOR 
+C38   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C39   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C40   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C41   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C42                CPOL-EUE7.5-18            E7,5-18             POLARIZED CAPACITOR                  
+C43                C-PRE5,0-12               E5,0-12             POLARIZED RADIAL ELECTROLYTIC
+C44   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C45                C-PRE5,0-12               E5,0-12             POLARIZED RADIAL ELECTROLYTIC
+C46   470pF        C-EUC0805                 C0805               CAPACITOR 
+C47                CPOL-EUE2-5               E2-5                POLARIZED CAPACITOR                  
+C48                CPOL-EUE2-5               E2-5                POLARIZED CAPACITOR                  
+C49   470pF        C-EUC0805                 C0805               CAPACITOR 
+C50                CP-E-035X080              E-035X080           POLARIZED CAPACITOR 
+C51   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C52                CP-E-035X080              E-035X080           POLARIZED CAPACITOR 
+C53   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C54   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C55   10n          C-EUC0805                 C0805               CAPACITOR 
+C56   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C57   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C58   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C59   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C60   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C61   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C62   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C63                CP-E-050X125              E-050X125           POLARIZED CAPACITOR 
+C64   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C65   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C66   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C67                CPOL-EUE2-5               E2-5                POLARIZED CAPACITOR                  
+C68   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C69   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C70   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C71   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+C72   0.1uF        C-EUC0805                 C0805               CAPACITOR 
+CON1               CON06                     CON06               CONNECTOR
+CON2               CON06                     CON06               CONNECTOR
+CS1   ACS712       ACS712                    SO08                5-Amp
+CS2   ACS712       ACS712                    SO08                5-Amp
+D1    MBR360       1N5400VERTICAL            DO-201-15_V         DIODE          
+D2    5.1V         BZX85VERTICAL             D041Z10_V           ZENER DIODE        
+D3    30V          1N5060GPVERTICAL          D015-12_V           DIODE          
+D4    2V7          DIODE                     SOD123              ZENER DIODE 
+D5                 ZENER-DIODESOD80C         SOD80C              ZENER DIODE        
+D6    1N4148       DIODE                     SOD123  
+D7    MBRA340T3    MBRA340T3                 SMA                 Surface Mount Schottky Power Rectifier Diode              
+D8    MBR360       1N5400VERTICAL            DO-201-15_V         DIODE          
+D9    5.1V         BZX85VERTICAL             D041Z10_V           ZENER DIODE        
+D10   30V          1N5060GPVERTICAL          D015-12_V           DIODE          
+D11   2V7          DIODE                     SOD123              ZENER DIODE 
+D12                ZENER-DIODESOD80C         SOD80C              ZENER DIODE        
+D13   1N4148       DIODE                     SOD123  
+IC1   LM334Z       LM334Z                    TO92                3-Terminal Adjustable Current Source
+L1    SFT1030      SFT1030                   SFT1030             INDUCTOR       
+L2    L-           L-                        RS749-8366_THT22UH  INDUCTOR       
+L3    494HYF-0134K 494HYF-0134K              0.2PIN_0.3DIA       330uH 0.54A    
+L4    SFT1030      SFT1030                   SFT1030             INDUCTOR       
+L5    L-           L-                        RS749-8366_THT22UH  INDUCTOR       
+LD1   RED          LED3MM                    LED3MM              LED            
+OP1   SFH610       SFH610                    DIL04               SIEMENS OPTO COUPLER  
+OP2   SFH610       SFH610                    DIL04               SIEMENS OPTO COUPLER
+Q1    ZVN3306A     2N3819                    TO92                N-Channel Junction FET     
+Q2    2N3906       BC327SMD                  SOT23-BEC           PNP Transistror
+Q3    BC847B       BC847BSMD                 SOT23               NPN Transistor 
+Q4    TIP31C       TIP31CVERTICAL            TO220V              NPN Transistor 
+Q5    MJE3055      MJE3055                   TO220AV             NPN TRANSISTOR 
+Q6    MJE3055      MJE3055                   TO220AV             NPN TRANSISTOR 
+Q7    MJE3055      MJE3055                   TO220AV             NPN TRANSISTOR 
+Q8    ZVN3306A     2N3819                    TO92                N-Channel Junction FET     
+Q9    2N3906       BC327SMD                  SOT23-BEC           PNP Transistror
+Q10   BC847        BC847BSMD                 SOT23               NPN Transistor 
+Q11   TIP31C       TIP31CVERTICAL            TO220V              NPN Transistor 
+Q12   MJE3055      MJE3055                   TO220AV             NPN TRANSISTOR 
+Q13   MJE3055      MJE3055                   TO220AV             NPN TRANSISTOR 
+Q14   MJE3055      MJE3055                   TO220AV             NPN TRANSISTOR 
+R1    47K          R-EU_R0805                R0805               RESISTOR  
+R2    47K          R-EU_R0805                R0805               RESISTOR  
+R3    1K           R-EU_R0805                R0805               RESISTOR  
+R4    1K           R-EU_R0805                R0805               RESISTOR  
+R5                 R-EU_0411/3V              0411V               RESISTOR  
+R6    4.7K         R-EU_R0805                R0805               RESISTOR  
+R7    2.2K         R-EU_R0805                R0805               RESISTOR  
+R8    1K           R-EU_R0805                R0805               RESISTOR  
+R9    10K          R-EU_R0805                R0805               RESISTOR  
+R10   22K          R-EU_R0805                R0805               RESISTOR  
+R11   1K           R-EU_R0805                R0805               RESISTOR  
+R12                R-EU_0613/5V              P0613V              RESISTOR  
+R13   220ohm       R-EU_R0805                R0805               RESISTOR  
+R14   10K          R-EU_R0805                R0805               RESISTOR  
+R15   xxK          R-EU_R0805                R0805               RESISTOR  
+R16   47K          R-EU_R0805                R0805               RESISTOR  
+R17   4K7          R-EU_R0805                R0805               RESISTOR  
+R18   47K          R-EU_R0805                R0805               RESISTOR  
+R19   10K          R-EU_R0805                R0805               RESISTOR  
+R20   2K2          R-EU_R0805                R0805               RESISTOR  
+R21   100R         R-EU_R0805                R0805               RESISTOR  
+R22   10K          R-EU_R0805                R0805               RESISTOR  
+R23   220ohm       R-EU_R0805                R0805               RESISTOR  
+R24   xxK          R-EU_R0805                R0805               RESISTOR  
+R25   1K           R-EU_R0805                R0805               RESISTOR  
+R26   1K           R-EU_R0805                R0805               RESISTOR  
+R27   39ohm        R-EU_0411/3V              0411V               RESISTOR  
+R28   39ohm        R-EU_0411/3V              0411V               RESISTOR  
+R29   39ohm        R-EU_0411/3V              0411V               RESISTOR  
+R30   10K          R-EU_R0805                R0805               RESISTOR  
+R31   15K          R-EU_R0805                R0805               RESISTOR  
+R32   47K          R-EU_R0805                R0805               RESISTOR  
+R33   6.8ohm       R-EU_R0805                R0805               RESISTOR  
+R34                R-EU_R2512                R2512               RESISTOR  
+R35                R-EU_R2512                R2512               RESISTOR  
+R36                R-EU_R2512                R2512               RESISTOR  
+R37   1K           R-EU_R0805                R0805               RESISTOR  
+R38   1K           R-EU_R0805                R0805               RESISTOR  
+R39   22K          R-EU_R0805                R0805               RESISTOR  
+R40   47K          R-EU_R0805                R0805               RESISTOR  
+R41   5K           R-EU_R0805                R0805               RESISTOR  
+R42   1K           R-EU_R0805                R0805               RESISTOR  
+R43   1K           R-EU_R0805                R0805               RESISTOR  
+R44   1K           R-EU_R0805                R0805               RESISTOR  
+R45   1K           R-EU_R0805                R0805               RESISTOR  
+R46   2K           R-EU_R0805                R0805               RESISTOR  
+R47   2K           R-EU_R0805                R0805               RESISTOR  
+R48   10K          R-EU_R0805                R0805               RESISTOR  
+R49   47K          R-EU_R0805                R0805               RESISTOR  
+R50   330          R-EU_R0805                R0805               RESISTOR  
+R51   47K          R-EU_R0805                R0805               RESISTOR  
+R52   47K          R-EU_R0805                R0805               RESISTOR  
+R53   47K          R-EU_R0805                R0805               RESISTOR  
+R54   15K          R-EU_R0805                R0805               RESISTOR  
+R55   1K           R-EU_R0805                R0805               RESISTOR  
+R56   1K           R-EU_R0805                R0805               RESISTOR  
+R57   4.7K         R-EU_R0805                R0805               RESISTOR  
+R58   2.2K         R-EU_R0805                R0805               RESISTOR  
+R59                R-EU_0411/3V              0411V               RESISTOR  
+R60   10K          R-EU_R0805                R0805               RESISTOR  
+R61   22K          R-EU_R0805                R0805               RESISTOR  
+R62   1K           R-EU_R0805                R0805               RESISTOR  
+R63                R-EU_0613/5V              P0613V              RESISTOR  
+R64   10K          R-EU_R0805                R0805               RESISTOR  
+R65   47K          R-EU_R0805                R0805               RESISTOR  
+R66   4K7          R-EU_R0805                R0805               RESISTOR  
+R67   47K          R-EU_R0805                R0805               RESISTOR  
+R68   10K          R-EU_R0805                R0805               RESISTOR  
+R69   2K2          R-EU_R0805                R0805               RESISTOR  
+R70   100R         R-EU_R0805                R0805               RESISTOR  
+R71   10K          R-EU_R0805                R0805               RESISTOR  
+R72   4K7          R-EU_R0805                R0805               RESISTOR  
+R73   4K7          R-EU_R0805                R0805               RESISTOR  
+R74   39ohm        R-EU_0411/3V              0411V               RESISTOR  
+R75   39ohm        R-EU_0411/3V              0411V               RESISTOR  
+R76   39ohm        R-EU_0411/3V              0411V               RESISTOR  
+R77   15K          R-EU_R0805                R0805               RESISTOR  
+R78   47K          R-EU_R0805                R0805               RESISTOR  
+R79   10K          R-EU_R0805                R0805               RESISTOR  
+R80   6.8ohm       R-EU_R0805                R0805               RESISTOR  
+R81                R-EU_R2512                R2512               RESISTOR  
+R82                R-EU_R2512                R2512               RESISTOR  
+R83                R-EU_R2512                R2512               RESISTOR  
+R84   15K          R-EU_R0805                R0805               RESISTOR  
+R85   10K          R-EU_R0805                R0805               RESISTOR  
+R86   22K          R-EU_R0805                R0805               RESISTOR  
+R87   47K          R-EU_R0805                R0805               RESISTOR  
+R88   1K           R-EU_R0805                R0805               RESISTOR  
+R89   5K           R-EU_R0805                R0805               RESISTOR  
+R90   1K           R-EU_R0805                R0805               RESISTOR  
+R91   1K           R-EU_R0805                R0805               RESISTOR  
+R92   1K           R-EU_R0805                R0805               RESISTOR  
+R93   2K           R-EU_R0805                R0805               RESISTOR  
+R94   2K           R-EU_R0805                R0805               RESISTOR  
+R95   47K          R-EU_R0805                R0805               RESISTOR  
+R96   10K          R-EU_R0805                R0805               RESISTOR  
+R97   47K          R-EU_R0805                R0805               RESISTOR  
+REF1  LM336Z-5.0   LM336Z                    TO92                VOLTAGE REFERENCE 
+REF2  LM4050       LM4040A20IDBZT            SOT95P237X112-3N    PRECISION MICROPOWER SHUNT VOLTAGE REFERENCE
+REF3  LM336Z-5.0   LM336Z                    TO92                VOLTAGE REFERENCE 
+REF4  LM4040       LM4040A20IDBZT            SOT95P237X112-3N    PRECISION MICROPOWER SHUNT VOLTAGE REFERENCE
+REG1  LM2576-ADJ   LM2575HV_VVERTICAL_2      LM2575HV_V_2        VOLTAGE REGULATOR - LM2576-ADJ
+REG2  LM317MSTT3   LM317MSTT3                SOT223              500 mA Adjustable Output Positive Voltage Regulator   
+REG3  LM317MSTT3   LM317MSTT3                SOT223              500 mA Adjustable Output Positive Voltage Regulator   
+REG4  LM2575HVSMD  LM2575HVSMD               TO263-5             VOLTAGE REGULATOR - LM2575HV       
+REG5  LM2576-ADJ   LM2575HV_VVERTICAL_2      LM2575HV_V_2        VOLTAGE REGULATOR - LM2576-ADJ           
+S1    DTSM-6       DTSM-6                    DTSM-6              TACTILE SWITCH
+TR1   2K           TRIM_EU-B64W              B64W                POTENTIOMETER  
+TR2   1K           TRIM_EU-B64W              B64W                POTENTIOMETER  
+TR3   2K           TRIM_EU-B64W              B64W                POTENTIOMETER  
+TR4   1K           TRIM_EU-B64W              B64W                POTENTIOMETER  
+U1    OP295        TL072N                    SO08                JFET OP-AMP - Dual         
+U2    IL300        HCNR20DIP8_1              DIP8                High-Linearity Analog Optocouplers                    
+U3    IL300        HCNR20DIP8_1              DIP8                High-Linearity Analog Optocouplers                    
+U4    ATMEGA328P-A ATMEGA48P/88P/168P/328P-A TQFP32A             MICROCONTROLLER
+U5    OP295        TL072N                    SO08                JFET OP-AMP - Dual         
+U6    OP295        TL072N                    SO08                JFET OP-AMP - Dual         
+U7    OP295        TL072N                    SO08                JFET OP-AMP - Dual         
+U8    OP295        TL072N                    SO08                JFET OP-AMP - Dual         
+U9    IL300        HCNR20DIP8_1              DIP8                High-Linearity Analog Optocouplers                    
+U10   IL300        HCNR20DIP8_1              DIP8                High-Linearity Analog Optocouplers                    
+U11   OP295        TL072N                    SO08                JFET OP-AMP - Dual         
+U12   DAC8574IPW   DAC8574IPW                TSSOP16             DAC CONVERTER 16-BIT
+U13   OP295        TL072N                    SO08                JFET OP-AMP - Dual         
+U14   IL300        HCNR20DIP8_1              DIP8                High-Linearity Analog Optocouplers                    
+U15   IL300        HCNR20DIP8_1              DIP8                High-Linearity Analog Optocouplers                    
+U16   MCP3424-E/SL MCP3424-E/SL              SOIC127P600X175-14N ADC CONVERTER 18-BIT       
+U17   OP295        TL072N                    SO08                JFET OP-AMP - Dual         
+U18   OP295        TL072N                    SO08                JFET OP-AMP - Dual         
+U19   LM334Z       LM334Z                    TO92                3-Terminal Adjustable Current Source               
+U20   OP295        TL072N                    SO08                JFET OP-AMP - Dual         
+U21   OP295        TL072N                    SO08                JFET OP-AMP - Dual         
+U22   IL300        HCNR20DIP8_1              DIP8                High-Linearity Analog Optocouplers                    
+U23   IL300        HCNR20DIP8_1              DIP8                High-Linearity Analog Optocouplers                    
+U24   OP295        TL072N                    SO08                JFET OP-AMP - Dual         
+XTAL1              CRYTALHC49S               HC49/S@1            16-Mhz CRYSTAL
+X1                 W237-02P                  W237-132            WAGO SREW CLAMP 
+X2                 W237-02P                  W237-132            WAGO SREW CLAMP
+X3                 W237-02P                  W237-132            WAGO SREW CLAMP
+X4                 W237-02P                  W237-132            WAGO SREW CLAMP 
+X5    22-23-2041   22-23-2041                22-23-2041          .100" (2.54mm) Center Header - 4 Pin                        
+X6                 22-23-2061                22-23-2061          .100" (2.54mm) Center Header - 6 Pin
+X7                 22-23-2061                22-23-2061          .100" (2.54mm) Center Header - 6 Pin
+X8                 W237-02P                  W237-132            WAGO SREW CLAMP
+J1    J            J03                       Bridge         
+J2    J            J03                       Bridge         
+J3    J            J03                       Bridge         
+J4    J            J03                       Bridge         
+J5    J            J03                       Bridge         
+JP1                JP1E                      JP1                 JUMPER
+FTDI  1X06 SIL HEADER     
